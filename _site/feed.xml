@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-23T17:38:58-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dave Loves Tech</title><subtitle>CompTIA A+ and Network+ Certified</subtitle><entry><title type="html">Solutions to Common Mac Issues</title><link href="http://localhost:4000/macos/2024/02/23/common-macos-solutions.html" rel="alternate" type="text/html" title="Solutions to Common Mac Issues" /><published>2024-02-23T13:38:00-08:00</published><updated>2024-02-23T13:38:00-08:00</updated><id>http://localhost:4000/macos/2024/02/23/common-macos-solutions</id><content type="html" xml:base="http://localhost:4000/macos/2024/02/23/common-macos-solutions.html"><![CDATA[<p>Here are some common resolutions to Mac issues that I have implemented:</p>
+
+<ol>
+  <li><a href="#soundmuted">Unmute Sound</a></li>
+  <li><a href="#incorrectsoundoutput">Select Correct Sound Device</a></li>
+  <li><a href="#screendim">Brighten Screen Display</a></li>
+  <li><a href="#mouseslow">Change Mouse Movement Speed</a></li>
+  <li><a href="#systemupdates">Check for System Updates</a></li>
+  <li><a href="#softwareupdates">Check for Software Updates</a></li>
+  <li><a href="#restart">Restart Mac</a></li>
+</ol>
+
+<h1 id="unmute-sound-">Unmute Sound <a name="soundmuted"></a></h1>
+<p>One common reason for not hearing sound on a Mac is that the sound volume is set to zero. Click the System Settings icon in the Dock and then choose the Sound option from the left side. As you can see in this first picture, the output volume is at zero and mute is selected.</p>
+
+<p><img src="/assets/macos-common-solutions/sound-settings-mute.PNG" alt="sound-settings-mute" /></p>
+
+<p>This can be fixed by clicking on the volume slider and moving it all the way to the right.</p>
+
+<p><img src="/assets/macos-common-solutions/full-sound-settings.png" alt="full-sound-settings" /></p>
+
+<p>A faster way of making this change is by using the Menu Bar, which is the topmost section of the screen. Click on the Control Center icon. I have added a highlight around it in the picture below. If you take a look at the sound section, you’ll see that the volume slider is all the way to the left.</p>
+
+<p><img src="/assets/macos-common-solutions/control-center-volume-zero.PNG" alt="control-center-volume-zero" /></p>
+
+<p>You can raise the volume by clicking on the slider and moving it all the way to the right.</p>
+
+<p><img src="/assets/macos-common-solutions/control-center-volume-full.PNG" alt="control-center-volume-full" /></p>
+
+<h1 id="select-correct-sound-device-">Select Correct Sound Device <a name="incorrectsoundoutput"></a></h1>
+<p>Another common reason for not hearing sound on a Mac is that the wrong audio device is selected. Click the System Settings icon in the Dock and then choose the Sound option from the left side. As you can see in this first picture, the Mi TV is selected. If the TV is off and the user is expecting to hear audio from the Mac, they won’t hear anything.</p>
+
+<p><img src="/assets/macos-common-solutions/sound-settings-output-mitv.PNG" alt="sound-settings-output-mitv.PNG" /></p>
+
+<p>This setting is easily changed by clicking on the preferred output audio device.</p>
+
+<p><img src="/assets/macos-common-solutions/sound-settings-output-mini-speakers.PNG" alt="sound-settings-output-mini-speakers" /></p>
+
+<p>A faster way of making this change is by using the Control Center from the Menu Bar. In the following screenshot, the sound output device is Mac mini Speakers.
+<img src="/assets/macos-common-solutions/mac-sound-output-selection-mac.PNG" alt="mac-sound-output-selection-mac" /></p>
+
+<p>It’s possible to change to the other sound output device by selecting Mi TV.
+<img src="/assets/macos-common-solutions/mac-sound-output-selection-mitv.PNG" alt="mac-sound-output-selection-mitv" /></p>
+
+<h1 id="brighten-screen-display-">Brighten Screen Display <a name="screendim"></a></h1>
+<p>If the screen is too dim, the first thing I’d try is the keyboard shortcut for increasing screen brightness, which is simultaneously pressing the Function (fn) key and the globe key. I have highlighted both of those keys in the screenshot below. It’s possible to brighten and soften the display brightness by suing the globe key and F1 or F2.</p>
+
+<p><img src="/assets/macos-common-solutions/apple-keyboard-globe-key.jpg" alt="apple-keyboard-globe-key" /></p>
+
+<h1 id="change-mouse-movement-speed-">Change Mouse Movement Speed <a name="mouseslow"></a></h1>
+<p>Mouse speed is another common issue. This is the place that I’ve seen the widest distribution of desired settings. Some people what the mouse to move slowly and some people want it to move quickly. This is another quick change. Select System Settings from the dock and then choose the mouse option from the left panel. I’ve highlighted the slider that controls the mouse speed in the screenshot below.</p>
+
+<p><img src="/assets/macos-common-solutions/mouse-tracking-speed.png" alt="mouse-tracking-speed.png" /></p>
+
+<h1 id="check-for-system-updates-">Check for System Updates <a name="systemupdates"></a></h1>
+<p>I know this is pretty obvious, but checking for updates is a core part of troubleshooting. Select the System Settings option from the dock and then choose General &gt; Software Update.</p>
+
+<p><img src="/assets/macos-common-solutions/software-update.PNG" alt="software-update" /></p>
+
+<p>And then you can go ahead and install the update(s).</p>
+
+<p><img src="/assets/macos-common-solutions/upgrade-now.PNG" alt="upgrade-now" /></p>
+
+<h1 id="check-for-software-updates-">Check for Software Updates <a name="softwareupdates"></a></h1>
+<p>An early part of troubleshooting an application should be checking for application updates. You can check for app store updates by selecting the Apple icon from the upper left and then choosing App Store.</p>
+
+<p><img src="/assets/macos-common-solutions/app-store-updates.PNG" alt="app-store-updates" /></p>
+
+<p>I have two updates available. And they can be installed by selecting Update All.</p>
+
+<p><img src="/assets/macos-common-solutions/two-updates-available.PNG" alt="two-updates-available" /></p>
+
+<h1 id="restart-mac-">Restart Mac <a name="restart"></a></h1>
+<p>Out of all of the items from this list, restart is my favorite. Restart is underrated. It’s been the fix for more issues than I can count.</p>
+
+<p><img src="/assets/macos-common-solutions/restart-mac.png" alt="restart-mac.png" /></p>]]></content><author><name></name></author><category term="macOS" /><summary type="html"><![CDATA[Here are some common resolutions to Mac issues that I have implemented:]]></summary></entry><entry><title type="html">Mac Terminal Commands</title><link href="http://localhost:4000/macos/2024/02/23/Mac-Terminal-Commands.html" rel="alternate" type="text/html" title="Mac Terminal Commands" /><published>2024-02-23T10:00:40-08:00</published><updated>2024-02-23T10:00:40-08:00</updated><id>http://localhost:4000/macos/2024/02/23/Mac-Terminal-Commands</id><content type="html" xml:base="http://localhost:4000/macos/2024/02/23/Mac-Terminal-Commands.html"><![CDATA[<p>In this blog post I will follow a Mac Terminal commands on the Mac Mojave operating system. More specifically, I will be following the tutorial called <a href="https://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/">HOW TO USE BASIC UNIX COMMANDS TO WORK IN TERMINAL ON YOUR MAC</a>. I won’t spend too much time on this because Mac is mostly identical to Linux, which is the main OS than I use. I have posted the terminal commands I entered and the output for you to examine.</p>
+
+<h1 id="what-version-of-mac-do-i-have">What Version of Mac do I Have?</h1>
+<p>You can use the sw_vers command to get information about the current Mac operating system.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:~ david$</span><span class="w"> </span>sw_vers
+<span class="go">ProductName:	Mac OS X
+ProductVersion	10.14
+BuildVersion:	18A391
+</span></code></pre></div></div>
+
+<h1 id="unix-directory-commands">UNIX Directory Commands</h1>
+<p>These are commands for working with directories in a Unix system. Mac and Linux are both Unix-like systems. As far as I can tell, all of the commands I use in this article would work the same in my Ubuntu Linux system.</p>
+<h3 id="what-directory-am-i-in">What Directory am I In?</h3>
+<p>The print working directory, pwd, command will return where you currently are in the system.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">pwd</span>
+<span class="go">/Users/david
+</span></code></pre></div></div>
+<h3 id="list-directory-contents">List Directory Contents</h3>
+<p>The list command will return the contents of the current directory. \</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">Desktop		Downloads	Movies		Pictures
+Documents	Library		Music		Public
+</span></code></pre></div></div>
+<h3 id="creating-a-new-directory">Creating a New Directory</h3>
+<p>You can use the change directory, cd, command to switch directories.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">cd </span>Documents
+<span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">another_file.txt		i_can_make_files.EXTENSION
+</span><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">cd</span> ../
+<span class="gp">davids-iMac:~ david$</span><span class="w">
+</span></code></pre></div></div>
+<h3 id="making-a-directory">Making a Directory</h3>
+<p>You can use the mkdir command to create a new directory.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">Desktop		Downloads	Movies		Pictures
+Documents	Library		Music		Public
+</span><span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">mkdir </span>EXAMPLE_DIRECTORY
+<span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">Desktop		EXAMPLE_DIRECTORY	Music
+Documents	Library			Pictures			
+Downloads	Movies			Public
+</span></code></pre></div></div>
+<h3 id="deleting-a-directory">Deleting a Directory</h3>
+<p>You can use the rmdir command to remove a directory.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">Desktop		EXAMPLE_DIRECTORY	Music
+Documents	Library			Pictures			
+Downloads	Movies			Public
+</span><span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">rmdir </span>EXAMPLE_DIRECTORY
+<span class="gp">davids-iMac:~ david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">Desktop		Downloads	Movies		Pictures
+Documents	Library		Music		Public
+</span></code></pre></div></div>
+
+<h1 id="working-with-files">Working with Files</h1>
+<h3 id="creating-files">Creating Files</h3>
+<p>You can use the touch command to create a new file.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">touch </span>i_can_make_files.EXTENSION
+<span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">i_can_make_files.EXTENSION
+</span></code></pre></div></div>
+<h3 id="copying-files">Copying Files</h3>
+<p>The command for copying is cp.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">i_can_make_files.EXTENSION
+</span><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">cp </span>i_can_make_files.EXTENSION COPY-OF-I-CAN-MAKE-FILES.EXTENSION
+<span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">i_can_make_files.EXTENSION	COPY-OF-I-CAN-MAKE-FILES.EXTENSION
+</span></code></pre></div></div>
+<h3 id="moving-files">Moving Files</h3>
+<p>mv filename1 filename2 this moves a file or changes its name</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">mv </span>COPY-OF-I-CAN-MAKE-FILES.EXTENSION ../
+<span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">i_can_make_files.EXTENSION
+</span><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">cd</span> ../
+<span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">COPY-OF-I-CAN-MAKE-FILES.EXTENSION
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+</span></code></pre></div></div>
+<h3 id="removing-files">Removing Files</h3>
+<p>You can use the rm command to remove a file.</p>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">COPY-OF-I-CAN-MAKE-FILES.EXTENSION
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+</span><span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">rm </span>COPY-OF-I-CAN-MAKE-FILES.EXTENSION
+<span class="gp">davids-iMac:Documents david$</span><span class="w"> </span><span class="nb">ls</span>
+<span class="go">Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+</span></code></pre></div></div>]]></content><author><name></name></author><category term="macOS" /><summary type="html"><![CDATA[In this blog post I will follow a Mac Terminal commands on the Mac Mojave operating system. More specifically, I will be following the tutorial called HOW TO USE BASIC UNIX COMMANDS TO WORK IN TERMINAL ON YOUR MAC. I won’t spend too much time on this because Mac is mostly identical to Linux, which is the main OS than I use. I have posted the terminal commands I entered and the output for you to examine.]]></summary></entry><entry><title type="html">Determing macOS General Information</title><link href="http://localhost:4000/macos/2024/02/22/mac-general-info.html" rel="alternate" type="text/html" title="Determing macOS General Information" /><published>2024-02-22T19:38:00-08:00</published><updated>2024-02-22T19:38:00-08:00</updated><id>http://localhost:4000/macos/2024/02/22/mac-general-info</id><content type="html" xml:base="http://localhost:4000/macos/2024/02/22/mac-general-info.html"><![CDATA[<h1 id="mac-general-information">Mac General Information</h1>
+<p>There is a lot of information to be found within the the About section. Here is how to do that: Launchpad &gt; System Settings &gt; General &gt; About. It contains the following information:</p>
+
+<ul>
+  <li>Name</li>
+  <li>Chip</li>
+  <li>Memory</li>
+  <li>Serial Number</li>
+  <li>macOS Version</li>
+  <li>Storage</li>
+</ul>
+
+<p>As you can see from the screenshot below, I am on a Mac mini named LA751 running macOS Ventura. And that it has an Apple M1 chip, 8 GB of RAM, and a 4 TB hard drive. I have redacted the serial number for security reasons.</p>
+
+<p><img src="/assets/mac-system-info/macOS_General_Info.PNG" alt="macOS_General_Info" /></p>
+
+<h1 id="ethernet-connection-settings">Ethernet Connection Settings</h1>
+<p>Internet settings can be found here: Launchpad &gt; System Settings &gt; Network &gt; Ethernet. The information that you’ll find here is:</p>
+
+<ul>
+  <li>Computer IP address</li>
+  <li>Subnet Mask</li>
+  <li>Router IP Address</li>
+  <li>DNS Servers</li>
+</ul>
+
+<p>This is the first place I’d check if the computer was having internet connectivity issues; this or the wi-fi settings. I have redacted the first two octets of the IP address and the router for security reasons.</p>
+
+<p><img src="/assets/mac-system-info/mac-ethernet-details.PNG" alt="mac-ethernet-details" /></p>
+
+<p>Before going on to the next ethernet detail, I’d like to talk a bit about the network interface controller (NIC). It’s the physical hardware that’s responsible for handling the wired ethernet connection. And it has a 12 digit hexadecimal number called a MAC, or medium access control address. The MAC address is not at all related to the “mac” part of “macOS”; it is a unique address that is only found on this particular piece of hardware. The MAC address for this NIC starts with 14:98:77. The MAC address information can be found here: Launchpad &gt; System Settings &gt; Network &gt; Ethernet &gt; Details &gt; Hardware.</p>
+
+<p><img src="/assets/mac-system-info/ethernet-mac-address.PNG" alt="ethernet-mac-address" /></p>
+
+<p>I have redacted the last six digits of the MAC address because that would identify the NIC of this particular computer. The first six digits are referred to as the organizationally unique identifier; they identify the manufacturer. And the last six digits are specific to the particular network interface controller.</p>
+
+<p>One way that a MAC address is useful is with identifying unknown network devices. Say you’ve got a wi-fi device on your network that doesn’t respond to pings and you don’t know where it is. You could do a MAC address lookup to determine the manufacturer. The MAC address lookup for this device can be found below. This has been useful to me lately because I wanted to identify all of the devices on my wi-fi network. I went device by device to identify the MAC addresses for my smart lights, my smart plugs, and my Echo dot. And that helped me identify which devices I should be turning on/off to determine device-specific MAC addresses.</p>
+
+<p><img src="/assets/mac-system-info/mac-address-lookup.PNG" alt="mac-address-lookup" /></p>
+
+<p>The main way that MAC addresses have been important to me is with network access control. One of my tasks at work has been to add MAC addresses to the allow list for wi-fi. For me personally, I used to have a MAC allow list of my wi-fi devices on my router. I recently transitioned to using a Sophos XG 135w firewall. It has wireless functionality! So now I’m using a MAC address allow list on my firewall.</p>]]></content><author><name></name></author><category term="macOS" /><summary type="html"><![CDATA[Mac General Information There is a lot of information to be found within the the About section. Here is how to do that: Launchpad &gt; System Settings &gt; General &gt; About. It contains the following information:]]></summary></entry><entry><title type="html">Creating an IoT Devices Wi-Fi Network</title><link href="http://localhost:4000/networking/2024/02/18/iot-devices-network.html" rel="alternate" type="text/html" title="Creating an IoT Devices Wi-Fi Network" /><published>2024-02-18T12:03:00-08:00</published><updated>2024-02-18T12:03:00-08:00</updated><id>http://localhost:4000/networking/2024/02/18/iot-devices-network</id><content type="html" xml:base="http://localhost:4000/networking/2024/02/18/iot-devices-network.html"><![CDATA[<p>I have a variety of Internet of Things (IoT) devices, such as smart lights, Amazon Alexa, and Google Voice. I love the added functionality that these devices bring. But I don’t want them to have access to my LAN. The main reason for this is that I don’t know the frequency of security patches that these devices get. And a compromised IoT device could be the gateway to my home network. I also have concerns about what kind of data these devices may be collecting from my network.</p>
+
+<p>I am not alone in this concern. Having a separate network for IoT devices is a standard cybersecurity practice. Here’s a good introduction to this issue: <a href="https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/tech-tuesday-internet-of-things-iot">Internet of Things (IoT)</a>. So in this article, I’ll be creating a separate IoT network that only has outgoing permission to the WAN.</p>
+
+<p>I’ve talked about limiting Zone Network Services and shown screenshots of the Sophos network interface creation on previous posts, so let’s jump straight to DHCP settings. You’ll find a screenshot of my DHCP settings below. I’ve redacted some IP settings for security reasons. I have created room for up to 24 devices to get assigned an IP address by DHCP.</p>
+
+<p><img src="/assets/iot-devices-network/DHCP-settings.PNG" alt="DHCP-settings" /></p>
+
+<p>I’ve skipped over the boring part of adding all of my devices to the Wi-Fi. You’ll find the full list of DHCP leases for my IoT devices network below. I have redacted the IP addresses and the last six digits of the device MAC addresses for security reasons.</p>
+
+<p><img src="/assets/iot-devices-network/DHCP-lease-info.PNG" alt="DHCP-lease-info" /></p>
+
+<p>Why did I only redact the last six digits of the device MAC addresses? Well, that’s because the first 6 digits are the somewhat common Organizationally Unique Identifier (OUI). And the last six digits are unique to the specific IoT devices. Here’s a good picture from NetWork Encyclopedia<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> that shows this:</p>
+
+<p><img src="/assets/iot-devices-network/mac-address-format.PNG" alt="mac-address-format" /></p>
+
+<p>I created one rule for this network to allow any outgoing WAN traffic. So my IoT devices can reach out to the internet, but they are not able to connect to my LAN. I feel safer already!</p>
+
+<p><img src="/assets/iot-devices-network/iot-to-wan-rule.PNG" alt="iot-to-wan-rule.PNG" /></p>
+
+<h1 id="references-">References <a name="references"></a></h1>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://networkencyclopedia.com/mac-address/">Network Encyclopedia MAC Address</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="Networking" /><summary type="html"><![CDATA[I have a variety of Internet of Things (IoT) devices, such as smart lights, Amazon Alexa, and Google Voice. I love the added functionality that these devices bring. But I don’t want them to have access to my LAN. The main reason for this is that I don’t know the frequency of security patches that these devices get. And a compromised IoT device could be the gateway to my home network. I also have concerns about what kind of data these devices may be collecting from my network.]]></summary></entry><entry><title type="html">Creating a Perimeter Network</title><link href="http://localhost:4000/firewall/2024/02/14/creating-a-perimeter-network.html" rel="alternate" type="text/html" title="Creating a Perimeter Network" /><published>2024-02-14T16:38:00-08:00</published><updated>2024-02-14T16:38:00-08:00</updated><id>http://localhost:4000/firewall/2024/02/14/creating-a-perimeter-network</id><content type="html" xml:base="http://localhost:4000/firewall/2024/02/14/creating-a-perimeter-network.html"><![CDATA[<p>The Sophos XG 135w Firewall that I’m using is vastly overpowered for home use. It’s designed to handle small a small business or a branch office<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. So it has eight GbE copper ports! I’m currently only using two ports: LAN and WAN.</p>
+
+<p><img src="/assets/perimeter-network/sophos-xg-135w.jpg" alt="firewall-ports" /></p>
+
+<p>So today I’ll be setting up a new port for a screened subnet, a location I plan to host a web server from. I want my private network to be as secure as possible, so I don’t want to allow any unrequested web traffic entering it. However, for a web server, I’ll need to be accepting WAN traffic from site visitors. And I can allow outside web traffic in to the screened subnet and not be concerned about unwanted traffic on my private LAN because the screened subnet is on a completely different interface. Here’s a good overview picture from some Okta documentation<sup id="fnref:1:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>:</p>
+
+<p><img src="/assets/perimeter-network/dmz-overview.PNG" alt="dmz-overview" /></p>
+
+<p>I created a third firewall zone titled “DMZ” because that’s the default, unchangeable, name for this port. A demilitarized zone (DMZ) was a term that was previously used for a perimter network. I have set the DMZ zone settings to allow for DNS, Ping, and Dynamic routing. It’s a lot more limited than the access than my LAN has.</p>
+
+<p><img src="/assets/perimeter-network/dmz-zone-settings.PNG" alt="dmz-zone-settings" /></p>
+
+<p>And here’s the single rule I created to allow devices on the DMZ to allow outgoing traffic to the WAN.</p>
+
+<p><img src="/assets/perimeter-network/dmz-to-wan-rule.PNG" alt="dmz-to-wan-rule" /></p>
+
+<p>I’ll close this article out with the DHCP lease that my laptop was given after joinging that network.</p>
+
+<p><img src="/assets/perimeter-network/t520-dhcp-setting.PNG" alt="t520-dhcp-setting" /></p>
+
+<h1 id="references-">References <a name="references"></a></h1>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://www.okta.com/identity-101/dmz/">What Is a DMZ Network?</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="Firewall" /><summary type="html"><![CDATA[The Sophos XG 135w Firewall that I’m using is vastly overpowered for home use. It’s designed to handle small a small business or a branch office1. So it has eight GbE copper ports! I’m currently only using two ports: LAN and WAN. [What Is a DMZ Network?][GV-link-name] &#8617;]]></summary></entry><entry><title type="html">Opening Firewall Ports for Google Voice</title><link href="http://localhost:4000/firewall/2024/02/12/firewall-ports-google-voice.html" rel="alternate" type="text/html" title="Opening Firewall Ports for Google Voice" /><published>2024-02-12T17:22:00-08:00</published><updated>2024-02-12T17:22:00-08:00</updated><id>http://localhost:4000/firewall/2024/02/12/firewall-ports-google-voice</id><content type="html" xml:base="http://localhost:4000/firewall/2024/02/12/firewall-ports-google-voice.html"><![CDATA[<p>I set up a new firewall on the edge of my network on previous posts. So far I have only added rules to allow outgoing Ping, HTTP and HTTPS traffic. I just tried using Google Voice and it didn’t work. So now is the time to create a new firewall rule!</p>
+
+<p>The documentation for Google Voice<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> indicates that I need to open the following ports:</p>
+
+<ul>
+  <li>Outbound UDP ports range: 19302–19309</li>
+  <li>Outbound UDP ports range: 26500–26501</li>
+  <li>Outbound TCP port 443</li>
+</ul>
+
+<p>I have already opened up TCP port 443 for outgoing HTTPS traffic on a previous post, so I only need to focus on the two outgoing UDP rules. I’m going to stick with the Sophos default of ports 1 - 65,535 being potential options for the source port. There are two separate port ranges that are required, so I’ll need to create two different services entries. Here’s the entry for the first range:</p>
+
+<p><img src="/assets/google-voice-ports/google-voice-udp-ports.PNG" alt="Cloudflare-Proxy" /></p>
+
+<p>I added both of those ranges to a single rule for Google Voice.</p>
+
+<p><img src="/assets/google-voice-ports/google-voice-both-udp-rules.PNG" alt="Cloudflare-Proxy" /></p>
+
+<p>Once I enabled that rule, I was able to start using Google Voice for calls again! So, to recap, I am now up to having four total firewall rules. Note: the rule IDs are out of order because I recreated the initial firewall rules for the screenshot.</p>
+
+<p><img src="/assets/google-voice-ports/firewall-rule-google-voice.PNG" alt="Cloudflare-Proxy" /></p>
+
+<h1 id="references-">References <a name="references"></a></h1>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://support.google.com/a/answer/9206518?hl=en#zippy=%2Cvoice-architecture%2Coutbound-ports-need-to-allow-voice-traffic%2Cbandwidth-requirements-per-site%2Callow-list-uris">Voice connectivity requirements</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="Firewall" /><summary type="html"><![CDATA[I set up a new firewall on the edge of my network on previous posts. So far I have only added rules to allow outgoing Ping, HTTP and HTTPS traffic. I just tried using Google Voice and it didn’t work. So now is the time to create a new firewall rule!]]></summary></entry><entry><title type="html">Allowing Outgoing Web Traffic</title><link href="http://localhost:4000/firewall/2024/02/12/allow-web-traffic.html" rel="alternate" type="text/html" title="Allowing Outgoing Web Traffic" /><published>2024-02-12T16:38:00-08:00</published><updated>2024-02-12T16:38:00-08:00</updated><id>http://localhost:4000/firewall/2024/02/12/allow-web-traffic</id><content type="html" xml:base="http://localhost:4000/firewall/2024/02/12/allow-web-traffic.html"><![CDATA[<p>I set up a Sophox XG 135w Firewall on the edge of my home network on my previous network. And outgoing Ping traffic is the only thing that is currently allowed. Obviously, I wasn’t able to access any websites so I went about addressing that first.</p>
+
+<p>I started by defining services for Hypertext Transfer Protocol (HTTPS). A screenshot of the service for HTTPS can be found below. I have left the Sophos source port default of 1-65,535 as-is. The other settings were chosen because HTTPS is a TCP protocol that uses port 443.</p>
+
+<p><img src="/assets/http-and-https-rules/HTTPS-port.PNG" alt="https-service" /></p>
+
+<p>The Service is part of the settings for the broader rule. The rule I created, that you will see below, was for traffic from my Local Area Network (LAN) to the Wide Area Network (WAN). This will allow outgoing HTTPS traffic. I do not need to create a rule to allow WAN to LAN HTTPS traffic because the Sophos XG 135w firewall is a Stateful Firewall<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>; it keeps track of connections and will allow incoming traffic from a connection that is already established.</p>
+
+<p><img src="/assets/http-and-https-rules/https-source-and-destination-zones.PNG" alt="https-rule" /></p>
+
+<p>I created rules to allow both HTTPS (443) and HTTP (80) traffic. Note: please ignore the rule ID number! I have been playing with a lot of test rules and those are skewing the ID number.</p>
+
+<p><img src="/assets/http-and-https-rules/current-firewall-rules.PNG" alt="firewall-rule" /></p>
+
+<p>As you can see by the firewall log traffic below, I am now able to access websites using both the HTTP and HTTPS protocols. I have redacted the source and destination IP addresses for security reasons.</p>
+
+<p><img src="/assets/http-and-https-rules/sophos-firewall-web-traffic-log.PNG" alt="firewall-logs" /></p>
+
+<h1 id="references-">References <a name="references"></a></h1>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://docs.sophos.com/nsg/sophos-firewall/19.5/Help/en-us/webhelp/onlinehelp/AdministratorHelp/Administration/Licensing/index.html#module-subscription-details">Sophos Firewall Licensing</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="Firewall" /><summary type="html"><![CDATA[I set up a Sophox XG 135w Firewall on the edge of my home network on my previous network. And outgoing Ping traffic is the only thing that is currently allowed. Obviously, I wasn’t able to access any websites so I went about addressing that first.]]></summary></entry><entry><title type="html">Setting Up my Firewall</title><link href="http://localhost:4000/firewall/2024/02/10/firewall-set-up.html" rel="alternate" type="text/html" title="Setting Up my Firewall" /><published>2024-02-10T21:54:00-08:00</published><updated>2024-02-10T21:54:00-08:00</updated><id>http://localhost:4000/firewall/2024/02/10/firewall-set-up</id><content type="html" xml:base="http://localhost:4000/firewall/2024/02/10/firewall-set-up.html"><![CDATA[<p>The Sophos XG 135w Firewall free Base License includes Stateful Firewall, VPN, Wireless<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. And one that was going to be decommissioned was given to me as a gift from a previous job! It was of course wiped of all data and I wiped it again before using it just to be on the safe side. And I’ve decided to jump right it and set it up as the firewall for my home network! It has eight GbE copper ports and today I’ll be setting up two of those ports.</p>
+
+<p><img src="/assets/screened-subnet/sophos-xg-135w.jpg" alt="firewall-ports" /></p>
+
+<p>I’ve skipped over the command line wiping step and the initial web-based device configuration in order to focus on more interesting things. Before setting up my firewall interfaces, I think it’s important to mention that the only firewall rule I currently have is the default to drop everything. I plan to keep my firewall as secure as I can, so I’ll only be opening up ports to get services to work.</p>
+
+<p><img src="/assets/screened-subnet/drop-all-firewall-rule.PNG" alt="drop-all-firewall-rule" /></p>
+
+<p>Next was setting up the wide area network (WAN) interface. This will be my connection to the internet. I selected the proper IP settings to connect to my ISP. Note: I’ll be redacting a lot of the settings out of a concern for security.</p>
+
+<p><img src="/assets/screened-subnet/port-2-wan.PNG" alt="port-2-wan.PNG" /></p>
+
+<p>And I also set up another port for my local area network (LAN), which is my private home network.</p>
+
+<p><img src="/assets/screened-subnet/lan-and-wan-ports.PNG" alt="lan-and-wan-ports" /></p>
+
+<p>I think it’s important to point out that I have disabled all of the device access options from the WAN. This is to make sure that the only place that this firewall can be administered from is my LAN.</p>
+
+<p><img src="/assets/screened-subnet/disabled-all-services-from-wan.PNG" alt="disabled-all-services-from-wan" /></p>
+
+<p>The Drop All rule is still in place, so nothing should be able to get in or to leave my network. My first rule was to allow outgoing Ping (ICMP) packets. Here’s a screenshot of me ping-ing the Google DNS before and after I allowed Ping traffic. You’ll see that the Pings start working after the sixth attempt.</p>
+
+<p><img src="/assets/screened-subnet/ping-once-allowed.PNG" alt="ping-once-allowed" /></p>
+
+<p>So, there you have it! I now have have a LAN port and a WAN port and outgoing Ping traffic is the only thing that is currently allowed.</p>
+
+<h1 id="references-">References <a name="references"></a></h1>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://docs.sophos.com/nsg/sophos-firewall/19.5/Help/en-us/webhelp/onlinehelp/AdministratorHelp/Administration/Licensing/index.html#module-subscription-details">Sophos Firewall Licensing</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="Firewall" /><summary type="html"><![CDATA[The Sophos XG 135w Firewall free Base License includes Stateful Firewall, VPN, Wireless1. And one that was going to be decommissioned was given to me as a gift from a previous job! It was of course wiped of all data and I wiped it again before using it just to be on the safe side. And I’ve decided to jump right it and set it up as the firewall for my home network! It has eight GbE copper ports and today I’ll be setting up two of those ports. [Sophos Firewall Licensing][GV-link-name] &#8617;]]></summary></entry><entry><title type="html">Arduino-Based Cell Culture Alarm</title><link href="http://localhost:4000/2012/10/14/arduino-cell-culture.html" rel="alternate" type="text/html" title="Arduino-Based Cell Culture Alarm" /><published>2012-10-14T14:53:00-07:00</published><updated>2012-10-14T14:53:00-07:00</updated><id>http://localhost:4000/2012/10/14/arduino-cell-culture</id><content type="html" xml:base="http://localhost:4000/2012/10/14/arduino-cell-culture.html"><![CDATA[<p><strong><u>NOTE</u>: The following blog post was written by me in 2012. I’ve added it here to document how my passion for IT was already present back when I was working as a biology research associate.</strong></p>
+
+<p>A few months ago one of my work tasks was to expand immortalized human cell culture lines up to 35 6 inch plates in order to create subtracted cDNA libraries. And I needed to repeat this for six different cell lines!</p>
+
+<p>Since, for the beginning portion of the production run, I was working by myself I was limited in the number of dishes I could maintain at once.  I found that it required a tremendous amount of time to keep 60 150 mm plates going at once, but that it was doable.  After one weekend off I came back to lab to find that my incubator’s CO2 tank had run out &amp; that all of my cells, that were supposed to be confluent, were in fact dead.  Needless to say I was furious!   Because I wanted to prevent this kind of problem in the future &amp; I was interested in learning about electronics and computer programming I went in search of ways of setting up an incubator alarm.</p>
+
+<p>While checking out the back of my incubator I noticed an empty cable connection labelled “alarm contacts”.  I thought that was pretty neat, so I read the manual and learned that there’s an alarm that the manufacturer makes that you can buy &amp; connect to the incubator.  That product is able to call or email users in the event of a failure.  I thought that was really neat, but I didn’t want to buy it, so I read up on how the alarm works.</p>
+
+<p><img src="/assets/arduino-incubator/alarm-contacts-junction.jpg" alt="alarm-contacts" /></p>
+
+<p>It turns out that, through some complicated internal mechanism, a relay is switched between alarm and normal states.  I’ll note that it’s possible to alter the factory alarm settings, but that it comes set up to alert mode for power loss, CO2 level changes and temperature alterations.  Typically, according to the figure above, the communication wire is connected to the red wire, but in states of alarm it connects to the green wire.  There’s some pretty neat physics to how these devices work, but it’s not necessary to delve into that right now.  However, if you’re interested, here’s a <a href="https://en.wikipedia.org/wiki/Relay">great place to start</a>.</p>
+
+<p>With the knowledge that I had a wire that could be connected to two different end points, pending incubator state, I began looking into how different types of contact methods work.  The first device I found was a <a href="https://www.elektronika.ba/505/phone-call-alerter/">DTMF generator</a>.  The acronym might sound esoteric to you, but you’ve got loads of experience with this thing.  Ever wonder why phones make different pitched beeping sounds when you type the different keys?  Well, that’s <a href="https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling">DTMF signalling</a>! Though this fashion is very interesting, given my lack of experience with electronics I wanted to find something easier.  That’s how I stumbled upon Arduino boards.  I found this Make project that showed readers how to make an <a href="https://www.youtube.com/watch?v=0IIwuAmIro4">email alert for when their doorbell was pushed</a>.</p>
+
+<p>Reading about this project, I noticed that the doorbell alert trigger was surprisingly similar to the incubator relay.  Without having any understanding of electronics or computer science I enlisted the help of a few technically competent friends for guidance.  At first I copied the code from the doorbell project line for line and mimicked their board setup.  Conceptually, the doorbell project works as follows: the doorbell button, when pushed, brings a 5 volt line into contact with pin3 which, through the arduino program goes to a www.pushingbox.com web link that triggers an email.  Pushingbox is a great free service that lets you create a variety of responses to web links being accessed.</p>
+
+<p>I’m skipping out a lot on the pushingbox stuff.  Check out the <a href="https://makezine.com/projects/notifying-doorbell-with-pushingbox/">project link</a> for more info.  After I had the bare bones doorbell alarm setup (a 5 volt line that I could connect or remove from pin3) I brought the first incubator into the game.  Following the manual’s schematic, I spliced some old phone cable and connected the Arduino 5 volt line to the communication line of the incubator alarm.  I connected pin3 to the normally open side of the relay.  So to be clear pin3 will only receive the 5 volts when the incubator alarm is active.  At this stage all I had to do was to use the doorbell code &amp; create a pushingbox response that would email my lab group when pin3 was receiving the 5V.  All of this was done with the help of BH and SK.</p>
+
+<p>With this in operation I wanted to add a coworkers incubator to this system, but I found that it wasn’t that easy.  I did the same phone jack splice to Arduino board, this time with pin4. Here’s a picture of the Arduino:</p>
+
+<p><img src="/assets/arduino-incubator/arduino-ethernet-shield.jpg" alt="arduino" /></p>
+
+<p>And it works! Here’s a YouTube video of it in action:</p>
+
+<p><a href="https://www.youtube.com/watch?v=PeRlTA8hjJU" title="DIY Incubator Alarm"><img src="/assets/arduino-incubator/youtube-pic.PNG" alt="DIY Incubator Alarm" /></a></p>
+
+<p>And here is the code that I used:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>////
+//
+// General code from http://www.pushingbox.com for Arduino + Ethernet Shield (official)
+//
+////
+
+#include &lt;SPI.h&gt;
+#include &lt;Ethernet.h&gt;
+
+  /////////////////
+ // MODIFY HERE //
+/////////////////
+byte mac[] = { 0x00, 0xAA, 0xBB, 0xCC, 0xDE, 0x19 };   // Be sure this address is unique in your network
+
+//Your secret DevID from PushingBox.com. You can use multiple DevID  on multiple Pin if you want
+#define DAVID_POWER_OUT "vBF05E85729C42B0"        //Scenario : "David loses power"          
+#define KELSEY_POWER_OUT "v25B99B9FDD02DFF"       //Scenario : "Kelsey loses power"           
+#define DAVID_POWER_BACK "vEE1E78E06E62DA5"       //Scenario : "David regains power"         
+#define KELSEY_POWER_BACK "v8F4FE0578DA22D5"      //Scenario : "Kelsey regains power"  
+
+//Numeric Pin where you connect your switch
+#define pinDevid1 3  // Dave oohh no!
+#define pinDevid2 4  // Kelsey ohh no!
+
+// Debug mode
+#define DEBUG true
+  ///////
+ //End//
+///////
+
+char serverName[] = "api.pushingbox.com";
+boolean pinDevid1State = false;
+boolean pinDevid2State = false;
+
+// Initialize the Ethernet client library
+// with the IP address and port of the server
+// that you want to connect to (port 80 is default for HTTP):
+EthernetClient client;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(pinDevid1, INPUT);
+  pinMode(pinDevid2, INPUT);
+ 
+  // start the Ethernet connection:
+  if (Ethernet.begin(mac) == 0) {
+    Serial.println("Failed to configure Ethernet using DHCP");
+    // no point in carrying on, so do nothing forevermore:
+    while(true);
+  }
+  else{
+    Serial.println("Ethernet ready");
+  }
+  // give the Ethernet shield a second to initialize:
+  delay(1000);
+}
+
+void loop()
+{
+      ////
+      // Listening for the pinDevid1 state
+      ////
+      if (digitalRead(pinDevid1) == HIGH &amp;&amp; pinDevid1State == false) // switch on pinDevid1 is ON
+      {
+        if(DEBUG){Serial.println("pinDevid1 is HIGH");}
+        pinDevid1State = true;
+        //Sending request to PushingBox when the pin is HIGHT
+        sendToPushingBox(DAVID_POWER_OUT);
+      }
+       if (digitalRead(pinDevid1) == LOW &amp;&amp; pinDevid1State == true) // switch on pinDevid1 is OFF
+      {
+        if(DEBUG){Serial.println("pinDevid1 is LOW");}
+        pinDevid1State = false;
+        //Sending request to PushingBox when the pin is LOW
+        sendToPushingBox(DAVID_POWER_BACK);
+      }
+     
+     
+      ////
+      // Listening for the pinDevid2 state
+      ////
+      if (digitalRead(pinDevid2) == HIGH &amp;&amp; pinDevid2State == false) // switch on pinDevid2 is ON
+      {
+        if(DEBUG){Serial.println("pinDevid2 is HIGH");}
+        pinDevid2State = true;
+        //Sending request to PushingBox when the pin is HIGHT
+        sendToPushingBox(KELSEY_POWER_OUT);
+      }
+       if (digitalRead(pinDevid2) == LOW &amp;&amp; pinDevid2State == true) // switch on pinDevid2 is OFF
+      {
+        if(DEBUG){Serial.println("pinDevid2 is LOW");}
+        pinDevid2State = false;
+        //Sending request to PushingBox when the pin is LOW
+        sendToPushingBox(KELSEY_POWER_BACK);
+      }
+}
+
+
+//Function for sending the request to PushingBox
+void sendToPushingBox(String devid){
+    if(DEBUG){Serial.println("connecting...");}
+
+  if (client.connect(serverName, 80)) {
+    if(DEBUG){Serial.println("connected");}
+
+    if(DEBUG){Serial.println("sendind request");}
+    client.print("GET /pushingbox?devid=");
+    client.print(devid);
+    client.println(" HTTP/1.1");
+    client.print("Host: ");
+    client.println(serverName);
+    client.println("User-Agent: Arduino");
+    client.println();
+  }
+  else {
+    if(DEBUG){Serial.println("connection failed");}
+  }
+ 
+  // if there are incoming bytes available
+  // from the server, read them and print them:
+  if(DEBUG){
+    if (client.available()) {
+    char c = client.read();
+    Serial.print(c);
+    }
+  }
+
+    if(DEBUG){Serial.println();}
+    if(DEBUG){Serial.println("disconnecting.");}
+    client.stop();
+} 
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[NOTE: The following blog post was written by me in 2012. I’ve added it here to document how my passion for IT was already present back when I was working as a biology research associate.]]></summary></entry></feed>
